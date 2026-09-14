@@ -1,0 +1,7 @@
+# Sample inputs for Module 2 Starter Deployment
+# Rename this file to terraform.tfvars or pass via CLI:
+# terraform apply -var-file=terraform.tfvars.sample
+
+project_id        = "da-advanced-elevate-c1-t1"
+gcp_region        = "us-central1"
+
